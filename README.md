@@ -2,6 +2,7 @@
 
 A commandline tool to get (N)ationale (S)poorwegen(A dutch railway operator) schedules.
 
+
 Usage:
 
 -v = From station #Required 
@@ -12,5 +13,8 @@ Usage:
 
 -t = time   #optional  but must be used in combination with date 
 
+
+
 Example:
+
 python3 main.py -v Amsterdam -n Roterdam
